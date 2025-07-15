@@ -1,2 +1,2 @@
-# muslimdidital
+# muslimdigital
 my first islamic class
