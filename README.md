@@ -1,2 +1,2 @@
 # muslimdigital
-my first islamic class
+my first developer class
